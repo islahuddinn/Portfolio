@@ -2,14 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/profile.png";
 import Tilt from "react-parallax-tilt";
-<<<<<<< HEAD
 import { AiFillGithub, AiOutlineTwitter } from "react-icons/ai";
-=======
-import {
-  AiFillGithub,
-  AiOutlineTwitter,
-} from "react-icons/ai";
->>>>>>> 76c932207899f6a33162e2f2a49e13de092d7d20
 import { FaLinkedinIn } from "react-icons/fa";
 
 function Home2() {
@@ -22,7 +15,6 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-<<<<<<< HEAD
               Ever since, I discovered programming, I have been captivated by
               its endless possibilities and have consistently expanded my skills
               and knowledge. I am highly proficient in both front-end
@@ -41,28 +33,15 @@ function Home2() {
                   {" "}
                   Front-end development and Backend with MERN stack.{" "}
                 </b>
-=======
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> HTML, CSS, Bootstrap, Javascript and React. </b>
->>>>>>> 76c932207899f6a33162e2f2a49e13de092d7d20
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-<<<<<<< HEAD
                 <b className="purple">
                   Web & Mobile Technologies and Products{" "}
                 </b>{" "}
                 and also in areas related to{" "}
-=======
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
->>>>>>> 76c932207899f6a33162e2f2a49e13de092d7d20
                 <b className="purple">
                   Deep Learning and Natural Launguage Processing.
                 </b>
@@ -80,10 +59,7 @@ function Home2() {
               &nbsp; like
               <i>
                 <b className="purple"> React.js</b>
-<<<<<<< HEAD
                 <b className="purple"> Express.js</b>
-=======
->>>>>>> 76c932207899f6a33162e2f2a49e13de092d7d20
               </i>
             </p>
           </Col>
@@ -102,11 +78,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-<<<<<<< HEAD
                   href="https://github.com/islahuddinn"
-=======
-                  href="https://github.com/Sallu-sb"
->>>>>>> 76c932207899f6a33162e2f2a49e13de092d7d20
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -126,11 +98,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-<<<<<<< HEAD
                   href="https://www.linkedin.com/in/slahuddinn/"
-=======
-                  href="https://www.linkedin.com/in/slahuddin-ch87/"
->>>>>>> 76c932207899f6a33162e2f2a49e13de092d7d20
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
